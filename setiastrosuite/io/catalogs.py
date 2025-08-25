@@ -1,0 +1,1 @@
+"""Catalog access / queries stubs."""
